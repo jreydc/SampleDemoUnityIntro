@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 675f984bd394cd343a0d26ff588ce18c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PushableBox_0
+    21300002: PushableBox_1
+    21300004: PushableBox_2
+    21300006: PushableBox_3
+    21300008: PushableBox_4
+    21300010: PushableBox_5
+    21300012: PushableBox_6
+    21300014: PushableBox_7
+    21300016: PushableBox_8
+    21300018: PushableBox_9
+    21300020: PushableBox_10
+    21300022: PushableBox_11
+    21300024: PushableBox_12
+    21300026: PushableBox_13
+    21300028: PushableBox_14
+    21300030: PushableBox_15
+    21300032: PushableBox_16
+    21300034: PushableBox_17
+    21300036: PushableBox_18
+    21300038: PushableBox_19
+    21300040: PushableBox_20
+    21300042: PushableBox_21
+    21300044: PushableBox_22
+    21300046: PushableBox_23
+    21300048: PushableBox_24
+    21300050: PushableBox_25
+    21300052: PushableBox_26
+    21300054: PushableBox_27
+    21300056: PushableBox_28
+    21300058: PushableBox_29
+    21300060: PushableBox_30
+    21300062: PushableBox_31
+    21300064: PushableBox_32
+    21300066: PushableBox_33
+    21300068: PushableBox_34
+    21300070: PushableBox_35
+    21300072: PushableBox_36
+    21300074: PushableBox_37
+    21300076: PushableBox_38
+    21300078: PushableBox_39
+    21300080: PushableBox_40
+    21300082: PushableBox_41
+    21300084: PushableBox_42
+    21300086: PushableBox_43
+    21300088: PushableBox_44
+    21300090: PushableBox_45
+    21300092: PushableBox_46
+    21300094: PushableBox_47
+    21300096: PushableBox_48
+    21300098: PushableBox_49
+    21300100: PushableBox_50
+    21300102: PushableBox_51
+    21300104: PushableBox_52
+    21300106: PushableBox_53
+    21300108: PushableBox_54
+    21300110: PushableBox_55
+    21300112: PushableBox_56
+    21300114: PushableBox_57
+    21300116: PushableBox_58
+    21300118: PushableBox_59
+    21300120: PushableBox_60
+    21300122: PushableBox_61
+    21300124: PushableBox_62
+    21300126: PushableBox_63
+    21300128: PushableBox_64
+    21300130: PushableBox_65
+    21300132: PushableBox_66
+    21300134: PushableBox_67
+    21300136: PushableBox_68
+    21300138: PushableBox_69
+    21300140: PushableBox_70
+    21300142: PushableBox_71
+    21300144: PushableBox_72
+    21300146: PushableBox_73
+    21300148: PushableBox_74
+    21300150: PushableBox_75
+    21300152: PushableBox_76
+    21300154: PushableBox_77
+    21300156: PushableBox_78
+    21300158: PushableBox_79
+    21300160: PushableBox_80
+    21300162: PushableBox_81
+    21300164: PushableBox_82
+    21300166: PushableBox_83
+    21300168: PushableBox_84
+    21300170: PushableBox_85
+    21300172: PushableBox_86
+    21300174: PushableBox_87
+    21300176: PushableBox_88
+    21300178: PushableBox_89
+    21300180: PushableBox_90
+    21300182: PushableBox_91
+    21300184: PushableBox_92
+    21300186: PushableBox_93
+    21300188: PushableBox_94
+    21300190: PushableBox_95
+    21300192: PushableBox_96
+    21300194: PushableBox_97
+    21300196: PushableBox_98
+    21300198: PushableBox_99
+    21300200: PushableBox_100
+    21300202: PushableBox_101
+    21300204: PushableBox_102
+    21300206: PushableBox_103
+    21300208: PushableBox_104
+    21300210: PushableBox_105
+    21300212: PushableBox_106
+    21300214: PushableBox_107
+    21300216: PushableBox_108
+    21300218: PushableBox_109
+    21300220: PushableBox_110
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PushableBox_0
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 18
+        width: 457
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebde59141e2a9047bb1bad8d64cb4ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3210389975d910c4bb959a2f0dc7d39c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
